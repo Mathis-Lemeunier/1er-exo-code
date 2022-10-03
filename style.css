@@ -1,0 +1,48 @@
+.couleurRouge {
+    color:red;
+    background-color: blue;
+}
+
+#couleurVerte {
+    color: green;
+
+}
+
+body{
+    margin:0%;
+    padding:0%;
+}
+.navbar {
+    background-color: green;
+    height:20vh;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+
+.header {
+    height :80vh;
+    background-color: blue;
+    display: flex;
+    background-image: url("../Cour 2/img/Background.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lien {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.7em;
+    margin-left: 40px;
+
+}
+
+header {
+    font-size:1.7em;
+}
+
+
+
+
